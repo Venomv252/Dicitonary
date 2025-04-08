@@ -35,3 +35,8 @@ button{
     margin-top: 20px;
     margin-left: 25%;
 }
+@media screen and (max-width:900px){
+    #main{
+        justify-content: start;
+    }
+}
